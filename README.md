@@ -1,5 +1,5 @@
 # memory_game_flags
-flags
+
 <img src="./image/img-1.png" alt="card_img" width="100px">
 <img src="./image/img-2.png" alt="card_img" width="100px">
 <img src="./image/img-3.png" alt="card_img" width="100px">

@@ -8,3 +8,5 @@
 <img src="./image/img-6.png" alt="card_img" width="50px">
 <img src="./image/img-7.png" alt="card_img" width="50px">
 <img src="./image/img-8.png" alt="card_img" width="50px">
+<br><br>
+

@@ -9,7 +9,7 @@
 <img src="./image/img-7.png" alt="card_img" width="50px">
 <img src="./image/img-8.png" alt="card_img" width="50px">
 <br><br>
-<img src="./image/game1.jpg">
-<img src="./image/game2.jpg">
-<img src="./image/game3.jpg">
+<img src="./image/game1.JPG">
+<img src="./image/game2.JPG">
+<img src="./image/game3.JPG">
 

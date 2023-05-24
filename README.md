@@ -1,4 +1,4 @@
-# memory_game_flags 🏴‍☠️
+🏳️‍🌈 # memory_game_flags 🏴‍☠️
 
 <img src="./image/img-1.png" alt="card_img" width="50px">
 <img src="./image/img-2.png" alt="card_img" width="50px">
